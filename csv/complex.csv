@@ -1,0 +1,5 @@
+long_long_header,number_or_string,union
+"double, quote",1.1,0.111
+b,10,a::b
+c,11111111111,"hello"
+d,-10,null
